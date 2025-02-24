@@ -21,6 +21,7 @@ I'll probably continue playing around with this as time allows.
 
 - Multi-character emojis (e.g., 🧜‍♂️, 🧜‍♀️) don't work well with different terminals
 - More creatures
+- Sudo is required to run (See [Keyboard Known Limitations](https://github.com/boppreh/keyboard/tree/master?tab=readme-ov-file#known-limitations)). Figure out a better way to do input.
 
 ## Things ChatGPT has recently suggested to add
 
