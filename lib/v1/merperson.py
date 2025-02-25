@@ -2,7 +2,7 @@ import random
 import time
 from typing import Optional
 
-from lib.aquatic_creature import AquaticCreature
+from lib.v1.aquatic_creature import AquaticCreature
 
 
 class Merperson(AquaticCreature):

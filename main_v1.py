@@ -1,11 +1,11 @@
 import time
-from lib.bowl import Bowl
+from lib.v1.bowl import Bowl
 import keyboard
 
 def main() -> None:
     tank_width = 73
     tank_height = 30
-    bowl = Bowl(width=tank_width, height=tank_height, save_file="tank_state.json")
+    bowl = Bowl(width=tank_width, height=tank_height, save_file="tank_states/tank_state_v1.json")
 
     # ✅ Load saved state if it exists
     bowl.load_state()

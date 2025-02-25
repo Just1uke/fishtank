@@ -1,5 +1,5 @@
 import random
-from lib.merperson import Merperson
+from lib.v1.merperson import Merperson
 
 
 class Mermaid(Merperson):

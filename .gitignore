@@ -10,3 +10,6 @@ __pycache__/
 
 # idea folder, uncomment if you don't need it
 .idea
+
+tank_states/*
+!tank_states/.gitkeep

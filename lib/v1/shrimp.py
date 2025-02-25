@@ -1,5 +1,5 @@
 import random
-from lib.aquatic_creature import AquaticCreature
+from lib.v1.aquatic_creature import AquaticCreature
 
 class Shrimp(AquaticCreature):
     """Shrimp move in circles rather than randomly."""
